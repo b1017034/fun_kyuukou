@@ -1,0 +1,698 @@
+1526203975479	geckodriver	INFO	geckodriver 0.18.0
+1526203975536	geckodriver	INFO	Listening on 127.0.0.1:51295
+1526203976912	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1526203977720	Marionette	INFO	Enabled via --marionette
+2018-05-13 18:32:58.768 plugin-container[69392:4060928] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526203979250	Marionette	INFO	Listening on port 51304
+1526203979426	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-13 18:32:59.897 plugin-container[69393:4061070] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526204013796	geckodriver	INFO	geckodriver 0.18.0
+1526204013846	geckodriver	INFO	Listening on 127.0.0.1:51384
+1526204014966	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1526204015692	Marionette	INFO	Enabled via --marionette
+2018-05-13 18:33:36.818 plugin-container[69429:4061764] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa537, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526204017328	Marionette	INFO	Listening on port 51393
+1526204017422	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-13 18:33:38.182 plugin-container[69433:4061858] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526204534536	geckodriver	INFO	geckodriver 0.18.0
+1526204534601	geckodriver	INFO	Listening on 127.0.0.1:51781
+1526204535666	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1526204536174	Marionette	INFO	Enabled via --marionette
+2018-05-13 18:42:17.195 plugin-container[71192:4076202] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa533, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526204537656	Marionette	INFO	Listening on port 51790
+1526204537758	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-13 18:42:18.244 plugin-container[71196:4076316] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526204591086	geckodriver	INFO	geckodriver 0.18.0
+1526204591169	geckodriver	INFO	Listening on 127.0.0.1:51888
+1526204592230	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1526204592810	Marionette	INFO	Enabled via --marionette
+2018-05-13 18:43:13.864 plugin-container[71244:4077205] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa537, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526204594320	Marionette	INFO	Listening on port 51897
+1526204594414	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-13 18:43:14.929 plugin-container[71245:4077299] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa133, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526204640835	geckodriver	INFO	geckodriver 0.18.0
+1526204640886	geckodriver	INFO	Listening on 127.0.0.1:51986
+1526204642002	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1526204642754	Marionette	INFO	Enabled via --marionette
+2018-05-13 18:44:03.739 plugin-container[71291:4078302] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa637, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526204644140	Marionette	INFO	Listening on port 51995
+1526204644226	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-13 18:44:04.769 plugin-container[71292:4078389] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa337, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-13 18:44:47.001 plugin-container[71320:4079393] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa537, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526212639243	geckodriver	INFO	geckodriver 0.18.0
+1526212639313	geckodriver	INFO	Listening on 127.0.0.1:52686
+1526212640543	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1526212641264	Marionette	INFO	Enabled via --marionette
+2018-05-13 20:57:22.238 plugin-container[72553:4101756] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa637, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526212642674	Marionette	INFO	Listening on port 52695
+1526212642744	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-13 20:57:23.334 plugin-container[72554:4101869] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa637, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526221259776	geckodriver	INFO	geckodriver 0.18.0
+1526221259849	geckodriver	INFO	Listening on 127.0.0.1:52825
+1526221260922	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1526221261778	Marionette	INFO	Enabled via --marionette
+2018-05-13 23:21:02.878 plugin-container[72735:4107909] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526221263250	Marionette	INFO	Listening on port 52834
+1526221263284	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-13 23:21:03.979 plugin-container[72740:4108029] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526221320049	geckodriver	INFO	geckodriver 0.18.0
+1526221320102	geckodriver	INFO	Listening on 127.0.0.1:52923
+1526221321196	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1526221321966	Marionette	INFO	Enabled via --marionette
+2018-05-13 23:22:03.067 plugin-container[72788:4108997] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa737, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526221323502	Marionette	INFO	Listening on port 52932
+1526221323576	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-13 23:22:04.057 plugin-container[72792:4109102] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526224144729	geckodriver	INFO	geckodriver 0.18.0
+1526224144815	geckodriver	INFO	Listening on 127.0.0.1:53229
+1526224145891	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1526224146412	Marionette	INFO	Enabled via --marionette
+2018-05-14 00:09:07.637 plugin-container[74185:4129697] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa43b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526224148056	Marionette	INFO	Listening on port 53238
+1526224148100	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-14 00:09:08.761 plugin-container[74187:4129799] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa337, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526224493194	geckodriver	INFO	geckodriver 0.18.0
+1526224493248	geckodriver	INFO	Listening on 127.0.0.1:53525
+1526224494322	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1526224494866	Marionette	INFO	Enabled via --marionette
+2018-05-14 00:14:55.848 plugin-container[74415:4133460] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa537, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526224496214	Marionette	INFO	Listening on port 53534
+1526224496320	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-14 00:14:56.915 plugin-container[74417:4133560] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526224750639	geckodriver	INFO	geckodriver 0.18.0
+1526224750699	geckodriver	INFO	Listening on 127.0.0.1:53638
+1526224751760	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1526224752242	Marionette	INFO	Enabled via --marionette
+2018-05-14 00:19:13.295 plugin-container[74585:4136928] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa537, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526224753724	Marionette	INFO	Listening on port 53647
+1526224753790	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-14 00:19:14.353 plugin-container[74586:4137029] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526224785432	geckodriver	INFO	geckodriver 0.18.0
+1526224785499	geckodriver	INFO	Listening on 127.0.0.1:53736
+1526224787055	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1526224787532	Marionette	INFO	Enabled via --marionette
+2018-05-14 00:19:48.647 plugin-container[74619:4137734] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa63b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526224788998	Marionette	INFO	Listening on port 53745
+1526224789102	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-14 00:19:49.687 plugin-container[74621:4137832] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa337, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526286670640	geckodriver	INFO	geckodriver 0.18.0
+1526286670705	geckodriver	INFO	Listening on 127.0.0.1:55982
+1526286671776	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1526286672476	Marionette	INFO	Enabled via --marionette
+2018-05-14 17:31:13.410 plugin-container[77010:4278889] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa537, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526286673824	Marionette	INFO	Listening on port 55991
+1526286673868	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-14 17:31:14.393 plugin-container[77011:4279004] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa437, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1526286719554	geckodriver	INFO	geckodriver 0.18.0
+1526286719620	geckodriver	INFO	Listening on 127.0.0.1:56074
+1526286720701	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1526286721504	Marionette	INFO	Enabled via --marionette
+2018-05-14 17:32:02.453 plugin-container[77032:4279817] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa737, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526286722848	Marionette	INFO	Listening on port 56083
+1526286722900	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-14 17:32:03.477 plugin-container[77034:4279919] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526447519825	geckodriver	INFO	geckodriver 0.18.0
+1526447520010	geckodriver	INFO	Listening on 127.0.0.1:57957
+1526447521130	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1526447522706	Marionette	INFO	Enabled via --marionette
+2018-05-16 14:12:05.220 plugin-container[77854:4384722] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa52f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-16 14:12:05.937 plugin-container[77855:4384816] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526447526338	Marionette	INFO	Listening on port 57966
+1526447526470	Marionette	WARN	TLS certificate errors will be ignored for this session
+1526447810220	geckodriver	INFO	geckodriver 0.18.0
+1526447810276	geckodriver	INFO	Listening on 127.0.0.1:58175
+1526447811388	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1526447811898	Marionette	INFO	Enabled via --marionette
+2018-05-16 14:16:52.843 plugin-container[77892:4387900] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa637, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1526447813204	Marionette	INFO	Listening on port 58184
+1526447813276	Marionette	WARN	TLS certificate errors will be ignored for this session
+2018-05-16 14:16:53.891 plugin-container[77894:4388006] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa33b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-05-18 09:24:31.897 plugin-container[79622:4571613] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa133, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1558643916987	geckodriver	INFO	geckodriver 0.18.0
+1558643917052	geckodriver	INFO	Listening on 127.0.0.1:55532
+1558643919510	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1558643920486	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558643920486	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558643920486	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558643920737	Marionette	TRACE	Received observer notification profile-after-change
+1558643920972	Marionette	TRACE	Received observer notification command-line-startup
+1558643920972	Marionette	TRACE	Received observer notification nsPref:changed
+1558643920972	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1558643921264	Marionette	TRACE	Received observer notification toplevel-window-ready
+1558643922623	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1558643922627	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1558643923071	Marionette	TRACE	All scripts recorded.
+1558643923072	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1558643923072	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1558643923072	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1558643923073	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1558643923073	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1558643923074	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1558643923074	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1558643923074	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1558643923074	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1558643923129	Marionette	INFO	Listening on port 55538
+1558643923129	Marionette	DEBUG	Remote service is active
+1558643923223	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:55609
+1558643923229	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1558643923229	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:179: ... et@chrome://marionette/content/server.js:235:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:493:9\n"},null]
+1558643923303	Marionette	DEBUG	Closed connection 0
+1558643981291	geckodriver	INFO	geckodriver 0.18.0
+1558643981345	geckodriver	INFO	Listening on 127.0.0.1:55621
+1558643982660	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1558643983244	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558643983244	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558643983244	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558643983377	Marionette	TRACE	Received observer notification profile-after-change
+1558643983564	Marionette	TRACE	Received observer notification command-line-startup
+1558643983564	Marionette	TRACE	Received observer notification nsPref:changed
+1558643983565	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1558643983790	Marionette	TRACE	Received observer notification toplevel-window-ready
+1558643985152	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1558643985152	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1558643985470	Marionette	TRACE	All scripts recorded.
+1558643985471	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1558643985473	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1558643985474	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1558643985474	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1558643985475	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1558643985481	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1558643985482	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1558643985482	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1558643985483	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1558643985554	Marionette	INFO	Listening on port 55627
+1558643985555	Marionette	DEBUG	Remote service is active
+1558643985640	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:55688
+1558643985643	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1558643985644	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:179: ... et@chrome://marionette/content/server.js:235:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:493:9\n"},null]
+1558643985692	Marionette	DEBUG	Closed connection 0
+1558644018216	geckodriver	INFO	geckodriver 0.18.0
+1558644018286	geckodriver	INFO	Listening on 127.0.0.1:55694
+1558644019622	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1558644020433	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558644020434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558644020434	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558644020566	Marionette	TRACE	Received observer notification profile-after-change
+1558644020836	Marionette	TRACE	Received observer notification command-line-startup
+1558644020837	Marionette	TRACE	Received observer notification nsPref:changed
+1558644020837	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1558644021076	Marionette	TRACE	Received observer notification toplevel-window-ready
+1558644023035	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1558644023035	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1558644023375	Marionette	TRACE	All scripts recorded.
+1558644023375	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1558644023376	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1558644023376	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1558644023377	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1558644023377	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1558644023378	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1558644023379	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1558644023379	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1558644023379	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1558644023425	Marionette	INFO	Listening on port 55700
+1558644023426	Marionette	DEBUG	Remote service is active
+1558644023454	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:55775
+1558644023462	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1558644023463	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:179: ... et@chrome://marionette/content/server.js:235:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:493:9\n"},null]
+1558644023563	Marionette	DEBUG	Closed connection 0
+1558644058733	geckodriver	INFO	geckodriver 0.18.0
+1558644058793	geckodriver	INFO	Listening on 127.0.0.1:55792
+1558644060132	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1558644061113	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558644061114	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558644061114	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558644061302	Marionette	TRACE	Received observer notification profile-after-change
+1558644061447	Marionette	TRACE	Received observer notification command-line-startup
+1558644061447	Marionette	TRACE	Received observer notification nsPref:changed
+1558644061447	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1558644061711	Marionette	TRACE	Received observer notification toplevel-window-ready
+1558644063788	Marionette	TRACE	Received observer notification sessionstore-windows-restored
+1558644063788	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1558644064086	Marionette	TRACE	All scripts recorded.
+1558644064087	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1558644064087	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1558644064087	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1558644064088	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1558644064088	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1558644064088	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1558644064089	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1558644064089	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1558644064089	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1558644064148	Marionette	INFO	Listening on port 55798
+1558644064149	Marionette	DEBUG	Remote service is active
+1558644064205	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:55873
+1558644064229	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1558644064230	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:179: ... et@chrome://marionette/content/server.js:235:8\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:493:9\n"},null]
+1558644064308	Marionette	DEBUG	Closed connection 0
+1558644073317	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1558644073320	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1558644073320	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1558644073320	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1558644073320	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1558644073320	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1558644073321	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1558644073321	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1558644073321	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1558644073321	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1558644073322	Marionette	INFO	Stopped listening on port 55538
+1558644073322	Marionette	DEBUG	Remote service is inactive
+1558644076316	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1558644076316	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1558644076316	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1558644076316	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1558644076317	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1558644076317	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1558644076317	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1558644076317	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1558644076317	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1558644076318	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1558644076319	Marionette	INFO	Stopped listening on port 55627
+1558644076319	Marionette	DEBUG	Remote service is inactive
+1558644079930	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1558644079931	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1558644079931	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1558644079931	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1558644079931	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1558644079931	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1558644079931	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1558644079931	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1558644079931	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1558644079932	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1558644079932	Marionette	INFO	Stopped listening on port 55700
+1558644079932	Marionette	DEBUG	Remote service is inactive
+1558644083809	Marionette	TRACE	Received observer notification xpcom-will-shutdown
+1558644083809	Marionette	DEBUG	Resetting recommended pref app.normandy.api_url
+1558644083809	Marionette	DEBUG	Resetting recommended pref app.update.disabledForTesting
+1558644083809	Marionette	DEBUG	Resetting recommended pref browser.contentblocking.introCount
+1558644083809	Marionette	DEBUG	Resetting recommended pref browser.safebrowsing.passwords.enabled
+1558644083809	Marionette	DEBUG	Resetting recommended pref browser.urlbar.suggest.searches
+1558644083810	Marionette	DEBUG	Resetting recommended pref datareporting.policy.dataSubmissionPolicyAccepted
+1558644083810	Marionette	DEBUG	Resetting recommended pref dom.disable_beforeunload
+1558644083810	Marionette	DEBUG	Resetting recommended pref dom.file.createInChild
+1558644083810	Marionette	DEBUG	Resetting recommended pref toolkit.cosmeticAnimations.enabled
+1558644083811	Marionette	INFO	Stopped listening on port 55798
+1558644083811	Marionette	DEBUG	Remote service is inactive
+1558645678266	geckodriver	INFO	geckodriver 0.18.0
+1558645678336	geckodriver	INFO	Listening on 127.0.0.1:56287
+1558645680929	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1558645690368	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558645690439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558645690439	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558645690733	Marionette	TRACE	Received observer notification profile-after-change
+1558645690923	Marionette	TRACE	Received observer notification command-line-startup
+1558645690924	Marionette	TRACE	Received observer notification nsPref:changed
+1558645690924	Marionette	DEBUG	Init aborted (running=false, enabled=true, finalUIStartup=false)
+1558645691235	Marionette	TRACE	Received observer notification toplevel-window-ready
+1558645693715	Marionette	TRACE	Received observer notification marionette-startup-requested
+1558645693715	Marionette	TRACE	Waiting until startup recorder finished recording startup scripts...
+1558645693731	Marionette	TRACE	All scripts recorded.
+1558645693731	Marionette	DEBUG	Setting recommended pref app.normandy.api_url to 
+1558645693731	Marionette	DEBUG	Setting recommended pref app.update.disabledForTesting to true
+1558645693732	Marionette	DEBUG	Setting recommended pref browser.contentblocking.introCount to 99
+1558645693733	Marionette	DEBUG	Setting recommended pref browser.safebrowsing.passwords.enabled to false
+1558645693733	Marionette	DEBUG	Setting recommended pref browser.urlbar.suggest.searches to false
+1558645693735	Marionette	DEBUG	Setting recommended pref datareporting.policy.dataSubmissionPolicyAccepted to false
+1558645693735	Marionette	DEBUG	Setting recommended pref dom.disable_beforeunload to true
+1558645693735	Marionette	DEBUG	Setting recommended pref dom.file.createInChild to true
+1558645693736	Marionette	DEBUG	Setting recommended pref security.certerrors.mitm.priming.enabled to false
+1558645693736	Marionette	DEBUG	Setting recommended pref toolkit.cosmeticAnimations.enabled to false
+1558645693809	Marionette	INFO	Listening on port 56294
+1558645693810	Marionette	DEBUG	Remote service is active
+1558645693914	Marionette	DEBUG	Accepted connection 0 from 127.0.0.1:56549
+1558645693918	Marionette	DEBUG	0 -> [0,1,"newSession",{"acceptInsecureCerts":true,"browserName":"firefox","capabilities":{"desiredCapabilities":{"acceptInsecureCerts":true,"browserName":"firefox"}}}]
+1558645693919	Marionette	DEBUG	0 <- [1,1,{"error":"unknown command","message":"newSession","stacktrace":"WebDriverError@chrome://marionette/content/error.js:179: ... t@chrome://marionette/content/server.js:236:9\n_onJSONObjectReady/<@chrome://marionette/content/transport.js:492:20\n"},null]
+1558645693967	Marionette	DEBUG	Closed connection 0
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221558636068330%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1558646398699	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/93wdrk3j4jx0_bkq4qvxtcs00000gn/T/rust_mozprofile.VctVndgYJETf"
+1558646398699	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/93wdrk3j4jx0_bkq4qvxtcs00000gn/T/rust_mozprofile.bG8LAiFqbuvC"
+1558646403247	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558646403251	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558646403252	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558646403278	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558646403280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558646403280	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+2019-05-24 06:20:04.764 firefox-bin[67139:1871495] IMKClient Stall detected, *please Report* your user scenario attaching a spindump (or sysdiagnose) that captures the problem - (imkxpc_attributesForCharacterIndex:reply:) block performed very slowly (2.18 secs).
+2019-05-24 06:20:09.367 firefox-bin[67139:1871495] IMKClient Stall detected, *please Report* your user scenario attaching a spindump (or sysdiagnose) that captures the problem - (imkxpc_attributesForCharacterIndex:reply:) block performed very slowly (1.27 secs).
+1558646415650	Marionette	INFO	Listening on port 56633
+1558646415900	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558646415928	Marionette	INFO	Listening on port 56634
+1558646416122	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221558636068330%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221558636068330%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 47066, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 726
+Exiting due to channel error.
+1558646588453	Marionette	INFO	Stopped listening on port 56633
+1558646592983	Marionette	INFO	Stopped listening on port 56634
+1558646602885	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/93wdrk3j4jx0_bkq4qvxtcs00000gn/T/rust_mozprofile.Ky5ID1raBTTP"
+1558646603747	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558646603748	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558646603748	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558646606326	Marionette	INFO	Listening on port 57106
+1558646606416	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221558646531108%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1558646847725	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/93wdrk3j4jx0_bkq4qvxtcs00000gn/T/rust_mozprofile.7DxCigwLQonC"
+1558646848886	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558646848887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558646848887	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558646851544	Marionette	INFO	Listening on port 57197
+1558646851551	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+1558646898360	Marionette	INFO	Stopped listening on port 57106
+1558646901123	Marionette	INFO	Stopped listening on port 57197
+1558647020322	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/93wdrk3j4jx0_bkq4qvxtcs00000gn/T/rust_mozprofile.iYfJlUk7UiRu"
+1558647021143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558647021143	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558647021144	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558647023442	Marionette	INFO	Listening on port 57281
+1558647023513	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558647057887	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/93wdrk3j4jx0_bkq4qvxtcs00000gn/T/rust_mozprofile.oL1v4mr6ipIZ"
+1558647058814	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558647058815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558647058815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558647061602	Marionette	INFO	Listening on port 57358
+1558647061707	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221558646720191%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221558646720191%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1558647187758	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/93wdrk3j4jx0_bkq4qvxtcs00000gn/T/rust_mozprofile.vFlgYq3iHKRS"
+1558647188815	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558647188816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558647188816	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558647191912	Marionette	INFO	Listening on port 57447
+1558647192006	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1B0011,name=PBackgroundStorage::Msg_Observe) Channel error: cannot send/recv
+
+1558647226244	Marionette	INFO	Stopped listening on port 57281
+1558647230176	Marionette	INFO	Stopped listening on port 57358
+1558647234973	Marionette	INFO	Stopped listening on port 57447
+1558647238748	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/93wdrk3j4jx0_bkq4qvxtcs00000gn/T/rust_mozprofile.DW7W6BeotDjh"
+1558647239635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558647239635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558647239635	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558647243559	Marionette	INFO	Listening on port 57538
+1558647243630	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558647261064	Marionette	INFO	Stopped listening on port 57538
+1558647313017	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/93wdrk3j4jx0_bkq4qvxtcs00000gn/T/rust_mozprofile.GrwQxHCFfeXw"
+1558647314564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558647314564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558647314564	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558647317327	Marionette	INFO	Listening on port 57633
+1558647317349	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221558646720191%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1558647615339	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/93wdrk3j4jx0_bkq4qvxtcs00000gn/T/rust_mozprofile.xWoTOvv0yrnC"
+1558647616626	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558647616628	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558647616629	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558647619614	Marionette	INFO	Listening on port 57744
+1558647619683	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558647748570	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/93wdrk3j4jx0_bkq4qvxtcs00000gn/T/rust_mozprofile.zUCcS4hD1ciH"
+1558647749572	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558647749572	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558647749572	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558647752523	Marionette	INFO	Listening on port 57841
+1558647752628	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221558646720191%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221558646720191%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1558647944718	Marionette	INFO	Stopped listening on port 57633
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+1558647947114	Marionette	INFO	Stopped listening on port 57744
+1558647949579	Marionette	INFO	Stopped listening on port 57841
+1558647953383	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/93wdrk3j4jx0_bkq4qvxtcs00000gn/T/rust_mozprofile.cv4sRuUqoKOw"
+1558647954318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558647954318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558647954318	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558647957318	Marionette	INFO	Listening on port 57935
+1558647957385	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221558646720191%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1558648035870	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/93wdrk3j4jx0_bkq4qvxtcs00000gn/T/rust_mozprofile.Pzs5aW7z3zRI"
+1558648036775	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558648036777	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558648036777	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558648039792	Marionette	INFO	Listening on port 58028
+1558648039896	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221558646720191%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1558648168641	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/93wdrk3j4jx0_bkq4qvxtcs00000gn/T/rust_mozprofile.1HRgIM1xKBDQ"
+1558648169509	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558648169510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558648169510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558648172644	Marionette	INFO	Listening on port 58114
+1558648172705	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558648181477	Marionette	INFO	Stopped listening on port 57935
+1558648186495	Marionette	INFO	Stopped listening on port 58028
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221558646720191%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1558648442529	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/93wdrk3j4jx0_bkq4qvxtcs00000gn/T/rust_mozprofile.hKy5BvWapnot"
+1558648443489	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558648443490	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558648443490	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558648447441	Marionette	INFO	Listening on port 58210
+1558648447501	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558648481459	Marionette	INFO	Stopped listening on port 58114
+1558648484028	Marionette	INFO	Stopped listening on port 58210
+1558648487646	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/93wdrk3j4jx0_bkq4qvxtcs00000gn/T/rust_mozprofile.z7wo69uaA65i"
+1558648488547	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558648488547	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558648488547	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558648491071	Marionette	INFO	Listening on port 58304
+1558648491164	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221558646720191%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1558648824216	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/93wdrk3j4jx0_bkq4qvxtcs00000gn/T/rust_mozprofile.3HSGk74PzDDd"
+1558648825040	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558648825041	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558648825041	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558648827948	Marionette	INFO	Listening on port 58394
+1558648828010	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221558646720191%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1558648908010	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/93wdrk3j4jx0_bkq4qvxtcs00000gn/T/rust_mozprofile.M0RV39KYGatC"
+1558648908682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558648908682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558648908682	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558648911276	Marionette	INFO	Listening on port 58480
+1558648911328	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221558646720191%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1558649003946	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/93wdrk3j4jx0_bkq4qvxtcs00000gn/T/rust_mozprofile.2gI4p2Jwc7nJ"
+1558649004821	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558649004821	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558649004821	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558649007546	Marionette	INFO	Listening on port 58561
+1558649007585	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558649049296	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/93wdrk3j4jx0_bkq4qvxtcs00000gn/T/rust_mozprofile.sgGm2ooYoZOA"
+1558649050544	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558649050545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558649050545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558649053250	Marionette	INFO	Listening on port 58627
+1558649053307	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221558646720191%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221558646720191%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1558649810673	Marionette	INFO	Stopped listening on port 58304
+1558649813672	Marionette	INFO	Stopped listening on port 58394
+1558649817636	Marionette	INFO	Stopped listening on port 58480
+1558649820619	Marionette	INFO	Stopped listening on port 58561
+1558656495246	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/93wdrk3j4jx0_bkq4qvxtcs00000gn/T/rust_mozprofile.EbXq3dG37MBq"
+1558656496573	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558656496575	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558656496575	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558656500518	Marionette	INFO	Listening on port 59031
+1558656500548	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558656625480	Marionette	INFO	Stopped listening on port 58627
+1558656629075	Marionette	INFO	Stopped listening on port 59031
+1558656725523	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/93wdrk3j4jx0_bkq4qvxtcs00000gn/T/rust_mozprofile.HG2bQpzfcQgh"
+1558656726888	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558656726889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558656726889	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558656730924	Marionette	INFO	Listening on port 59195
+1558656731006	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558656820070	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/93wdrk3j4jx0_bkq4qvxtcs00000gn/T/rust_mozprofile.tOV7oPqtms2t"
+1558656820846	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558656820850	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558656820850	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558656823583	Marionette	INFO	Listening on port 59310
+1558656823654	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221558646720191%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+1558656915124	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/93wdrk3j4jx0_bkq4qvxtcs00000gn/T/rust_mozprofile.6qf0q4iqdQHz"
+1558656916026	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558656916027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558656916027	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558656918877	Marionette	INFO	Listening on port 59402
+1558656918950	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558656938289	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hv/93wdrk3j4jx0_bkq4qvxtcs00000gn/T/rust_mozprofile.HWuI8RZBYqyx"
+1558656939103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1558656939103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1558656939103	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1558656941861	Marionette	INFO	Listening on port 59493
+1558656941933	Marionette	WARN	TLS certificate errors will be ignored for this session
+1558656972407	Marionette	INFO	Stopped listening on port 59493
+1558656975958	Marionette	INFO	Stopped listening on port 59402
+1558656979451	Marionette	INFO	Stopped listening on port 59310
+1558656982807	Marionette	INFO	Stopped listening on port 59195
