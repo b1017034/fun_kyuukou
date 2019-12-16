@@ -1,5 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver import Chrome, ChromeOptions
+
 from selenium.webdriver.support.ui import WebDriverWait
 from os.path import join, dirname
 from dotenv import load_dotenv
@@ -7,7 +8,7 @@ from selenium.webdriver.chrome.options import Options
 
 import os
 from selenium.webdriver.common.keys import Keys
-
+import chromedriver_binary
 import re
 
 
@@ -19,8 +20,7 @@ class scraping:
         options.add_argument('--headless')
 
         self.selector = {
-            'phantom': webdriver.PhantomJS(),
-            'chrome-headless': webdriver.Chrome(chrome_options=options)
+            'chrome-headless': webdriver.Chrome(options=options)
         }
 
         self.browser = self.selector['chrome-headless']
@@ -61,7 +61,6 @@ class scraping:
 
 
 if __name__ == "__main__":
-
     dotenv_path = join(dirname(__file__), '.env')
     load_dotenv(dotenv_path)
 
